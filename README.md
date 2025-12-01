@@ -24,9 +24,3 @@ The application is also designed in such a way that it will be easy to use.
 ## 📱 Technologies / Tools used for building this app includes:
 | Android Studio | Firebase | Kotlin | External APIs | Android OS |
 | --- | --- | --- | --- | --- |
-
-
-## 🤩 Designs:
-<img src="https://github.com/hetsuthar028/Farming-App/blob/master/Agri India.png" />
-
-## 😀 If you liked the app, Please give it a ⭐ and fork the repository. 🤚🏻
